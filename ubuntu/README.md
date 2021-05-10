@@ -1,5 +1,5 @@
 ##Scripts for Ubuntu
-+Once pulled run
 ```
+git clone https://github.com/coleTitze/StartupScripts.git
 chmod u+r+x *
 ```

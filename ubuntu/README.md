@@ -1,5 +1,6 @@
 # Scripts for Ubuntu
 ```
+sudo apt-get install git
 git clone https://github.com/coleTitze/StartupScripts.git
 cd StartupScripts/ubuntu
 chmod u+r+x *
